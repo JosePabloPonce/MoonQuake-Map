@@ -3,6 +3,7 @@ import axios from 'axios';
 import {useState, useEffect, useRef} from 'react'
 import { Canvas, useFrame } from '@react-three/fiber'
 
+
 function App() {
   // This reference gives us direct access to the THREE.Mesh object
 
@@ -25,8 +26,9 @@ function App() {
         <h2>
           MOONQUAKE MAP
         </h2>
-
-
+        {
+          pureba
+        }
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
