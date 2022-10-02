@@ -22,6 +22,3 @@ body{
   padding: 0;
 }
 
-#root {
-  background: radial-gradient(circle at bottom, rgb(9, 9, 26) 0, rgb(22, 22, 24) 100%);
-}
