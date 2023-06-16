@@ -1,7 +1,6 @@
 import './App.css';
 import axios from 'axios';
-import {useState, useEffect, useRef} from 'react'
-import { Canvas, useFrame } from '@react-three/fiber'
+import {useState, useEffect} from 'react'
 
 
 function App() {

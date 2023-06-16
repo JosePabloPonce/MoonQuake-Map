@@ -1,25 +1,17 @@
-import React, { useRef } from "react";
+import React from "react";
 import MoonMap from './moontTexture4k.jpg'
-import { useFrame, useLoader } from "@react-three/fiber";
+import { useLoader } from "@react-three/fiber";
 import { TextureLoader } from "three";
 import {OrbitControls, Stars} from '@react-three/drei'
 
 export function Moon(props){
 
     const [normalMap] = useLoader(TextureLoader, [MoonMap]);
-    const moonRef = useRef();
-    const coordinate1 = useRef();
-    /*
-    useFrame(({clock})=>{
-        const elapsedTime = clock.getElapsedTime()
-        moonRef.current.rotation.y = elapsedTime / 6
-        coordinate1.current.rotation.y = elapsedTime / 6
 
-    })*/
+
 
     return(<>
     {<ambientLight  intensity={1}/>}
-    {/*<pointLight color="white" position={[2,0,5]} intensity={1.2}/>*/}
     <Stars 
     radius ={300} 
     depth ={60} 
