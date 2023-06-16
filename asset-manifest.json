@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MoonQuake-Map/static/css/main.e7fa364c.css",
+    "main.js": "/MoonQuake-Map/static/js/main.97a4dd67.js",
+    "static/js/787.cda612ba.chunk.js": "/MoonQuake-Map/static/js/787.cda612ba.chunk.js",
+    "static/media/moontTexture4k.jpg": "/MoonQuake-Map/static/media/moontTexture4k.c42a71b4a11ee7389e59.jpg",
+    "index.html": "/MoonQuake-Map/index.html",
+    "main.e7fa364c.css.map": "/MoonQuake-Map/static/css/main.e7fa364c.css.map",
+    "main.97a4dd67.js.map": "/MoonQuake-Map/static/js/main.97a4dd67.js.map",
+    "787.cda612ba.chunk.js.map": "/MoonQuake-Map/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7fa364c.css",
+    "static/js/main.97a4dd67.js"
+  ]
+}
