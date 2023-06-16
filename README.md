@@ -2,11 +2,11 @@
 
 This project is a solution for the NASA Space App Challenge 2022 - Make a Moonquake Map! It is a web application that displays information about recorded seismometers during the Apollo missions. The application features an interactive 3D map of the moon, highlighting locations where moonquakes have occurred. These locations are plotted based on data obtained from the gagnepian_2006_catalog. By plotting the detected seismic events on the 3D map, we are able to identify areas on the moon that have experienced the most seismic activity.
 
-# Project Deployment
+## Project Deployment
 
 The project is currently hosted at https://josepabloponce.github.io/MoonQuake-Map. You can visit this link to access the deployed version of the application and explore its features.
 
-# Project Overview and Tools Used
+## Project Overview and Tools Used
 
 The project showcases information related to the seismometers used in the Apollo missions to gather data about the geological activity of the moon. This information is presented in a simplified manner to make it easily understandable for the general public.
 
