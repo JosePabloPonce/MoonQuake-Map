@@ -21,7 +21,7 @@ To accomplish this project, we utilized the following tools and libraries:
 - Python
 - HTML
 - CSS
-- 
+  
 ## Available Scripts
 
 In the project directory, you can run:
